@@ -1,0 +1,21 @@
+# Environment files
+.env
+.env.secret
+
+# Backups
+backups/
+*.bak
+*.sql
+
+# Temp/unknown dirs
+p/
+-/
+
+# Logs
+*.log
+*.tmp
+
+# IDE/editor
+.vscode/
+.idea/
+postgres/data/
